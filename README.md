@@ -56,9 +56,9 @@
 ## 🙋 Let's Connect
 <p align="center">
 	<a href="mailto:edensheiko@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/naveMaor"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="www.linkedin.com/in/navemaor"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/navemaor"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a
+  <a href="https://github.com/Eden-Sheiko"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/eden-sheiko-1ab38419b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/eden.sheiko"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a
 </p>
 
 <hr/>
