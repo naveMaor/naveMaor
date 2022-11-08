@@ -27,7 +27,7 @@
   </a>
   &emsp;
   <a href="https://www.php.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/php-%23008006.svg?logo=php&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/php-%234f5c93.svg?logo=php&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
