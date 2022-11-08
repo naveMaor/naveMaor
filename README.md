@@ -27,8 +27,14 @@
   </a>
   &emsp;
   <a href="https://www.php.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/php-%234f5c93.svg?logo=php&logoColor=white">
+    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.javascript.com" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+    <img alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
