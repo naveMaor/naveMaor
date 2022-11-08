@@ -23,7 +23,7 @@
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ffffff.svg?logo=java&logoColor=orange">
   </a>
   &emsp;
   <a href="https://www.php.com" target="_blank"> 
