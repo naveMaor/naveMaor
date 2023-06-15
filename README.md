@@ -65,7 +65,7 @@
 
 <br/>
 
-## 🙋 Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
 	<a href="mailto:rsd.nave@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/naveMaor"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
