@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Nave Maor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+ <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=B.S.+in+computer+science;DS+%7C+AI+%7C+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">B.S. in computer science in The Academic College of Tel Aviv-Yaffo. I like to Code,Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
